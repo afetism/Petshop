@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\CatHouse\CatHouse\bin\Debug\net6.0\CatHouse.exe
+C:\Users\user\source\repos\CatHouse\CatHouse\bin\Debug\net6.0\CatHouse.deps.json
+C:\Users\user\source\repos\CatHouse\CatHouse\bin\Debug\net6.0\CatHouse.runtimeconfig.json
+C:\Users\user\source\repos\CatHouse\CatHouse\bin\Debug\net6.0\CatHouse.dll
+C:\Users\user\source\repos\CatHouse\CatHouse\bin\Debug\net6.0\CatHouse.pdb
+C:\Users\user\source\repos\CatHouse\CatHouse\obj\Debug\net6.0\CatHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CatHouse\CatHouse\obj\Debug\net6.0\CatHouse.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CatHouse\CatHouse\obj\Debug\net6.0\CatHouse.AssemblyInfo.cs
+C:\Users\user\source\repos\CatHouse\CatHouse\obj\Debug\net6.0\CatHouse.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CatHouse\CatHouse\obj\Debug\net6.0\CatHouse.dll
+C:\Users\user\source\repos\CatHouse\CatHouse\obj\Debug\net6.0\refint\CatHouse.dll
+C:\Users\user\source\repos\CatHouse\CatHouse\obj\Debug\net6.0\CatHouse.pdb
+C:\Users\user\source\repos\CatHouse\CatHouse\obj\Debug\net6.0\CatHouse.genruntimeconfig.cache
+C:\Users\user\source\repos\CatHouse\CatHouse\obj\Debug\net6.0\ref\CatHouse.dll
